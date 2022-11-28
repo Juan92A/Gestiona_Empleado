@@ -1,0 +1,3 @@
+La Base de datos está establecida con localDB con connected services.
+Se encuentra la carpeta que contiene el script de la bd.
+Una vez establecida la conexión con localdb en máster, es necesario ejecutar el script para la creacion de la bd y la tabla a utilizar.
